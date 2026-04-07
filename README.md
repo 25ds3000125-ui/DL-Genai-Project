@@ -33,6 +33,7 @@ The project is modularized into a `src/` directory for better maintainability an
 └── README.md             # Project documentation
 
 ---
+```
 
 ## 🧠 Methodology
 
@@ -96,4 +97,3 @@ Performance is measured using the **Macro F1-Score** to ensure the model perform
 
 ## 📝 License
 This project is for educational and research purposes as part of the DL-GenAI Project.
-```
