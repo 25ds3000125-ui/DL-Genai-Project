@@ -1,4 +1,3 @@
-```markdown
 # 🎵 Messy Mashup – Genre Classification
 
 **Author:** Prathap Manohar Joshi  
@@ -32,7 +31,6 @@ The project is modularized into a `src/` directory for better maintainability an
 │   └── inference.py      # Test-Time Augmentation (TTA) and submission logic
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
-```
 
 ---
 
