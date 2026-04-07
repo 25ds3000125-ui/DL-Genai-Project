@@ -2,7 +2,11 @@ numpy
 pandas
 librosa==0.10.1
 torch
-transformers
-scikit-learn
+torchvision
+torchaudio
 wandb
 tqdm
+scikit-learn
+transformers
+matplotlib
+seaborn
