@@ -26,7 +26,7 @@ model = ASTForAudioClassification.from_pretrained(
 
 # Load the weights
 if os.path.exists("ast_v2.pth"):
-    model.load_state_dict(torch.load("ast_v2.pth", map_location=device))
+    model.load_state_dict(torch.load("models/ast_v2.pth", map_location=device))
 else:
     print("WARNING: ast_v2.pth not found. The model will run with untrained weights.")
 
